@@ -4,7 +4,7 @@
 
 For help & more Scripts : https://discord.gg/nx3TKM5
 
-Preview :
+Preview :https://www.youtube.com/watch?v=AeKG1cbDQBM
 
 Doesn t require esx
 
