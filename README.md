@@ -10,6 +10,9 @@ Doesn t require esx
 
 Add item.sql into your php
 
+
+``start jsfour-idcard``
+
 ``start OzneIDcard``
 
 Twitch : https://www.twitch.tv/ozneeee
